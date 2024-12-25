@@ -1,4 +1,4 @@
-const display = document.getElementById("display"); // ! dowiedz sie o co chodzi z const i tym całym document.get element.....
+const display = document.getElementById("display");
 
 function appendToDisplay(input){
     display.value += input;
